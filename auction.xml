@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<auction>
+  <item>
+    <id>1</id>
+    <name>Item 1</name>
+    <description>Description of Item 1</description>
+    <currentBid>100</currentBid>
+  </item>
+  <item>
+    <id>2</id>
+    <name>Item 2</name>
+    <description>Description of Item 2</description>
+    <currentBid>50</currentBid>
+  </item>
+  <item>
+    <id>3</id>
+    <name>item</name>
+    <description>test</description>
+    <currentBid>4500</currentBid>
+  </item>
+</auction>
